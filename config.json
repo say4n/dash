@@ -3,12 +3,12 @@
 	"items" : [
 		{
 			"alt" : "AdGuard Home",
-			"icon" : "fa-solid fa-shield-check",
+			"icon" : "fab fa-shield-check",
 			"link" : "https://adguard.pi.sayan.page"
 		},
 		{
 			"alt" : "Printer",
-			"icon" : "fa-solid fa-print",
+			"icon" : "fab fa-print",
 			"link" : "https://adguard.pi.sayan.page"
 		}
 	]
