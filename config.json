@@ -1,20 +1,15 @@
 {
-	"title" : "Simple Dash",
+	"title" : "π Dashboard",
 	"items" : [
 		{
-			"alt" : "Github",
-			"icon" : "fab fa-github",
-			"link" : "https://github.com/kutyla-philipp"
+			"alt" : "AdGuard Home",
+			"icon" : "fa-solid fa-shield-check",
+			"link" : "https://adguard.pi.sayan.page"
 		},
 		{
-			"alt" : "Twitter",
-			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
-		},
-		{
-			"alt" : "Docker Hub",
-			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
+			"alt" : "Printer",
+			"icon" : "fa-solid fa-print"></i>",
+			"link" : "https://adguard.pi.sayan.page"
 		}
 	]
 }
