@@ -13,8 +13,8 @@
 		},
 		{
 			"alt" : "Netdata",
-			"icon" : "fab fa-memo",
-			"link" : "https://adguard.pi.sayan.page"
+			"icon" : "fab fa-bug",
+			"link" : "https://netdata.pi.sayan.page"
 		}
 	]
 }
