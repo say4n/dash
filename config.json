@@ -3,7 +3,7 @@
 	"items" : [
 		{
 			"alt" : "AdGuard Home",
-			"icon" : "fab fa-shield-check",
+			"icon" : "fab fa-shield",
 			"link" : "https://adguard.pi.sayan.page"
 		},
 		{
