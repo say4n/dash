@@ -10,6 +10,11 @@
 			"alt" : "Printer",
 			"icon" : "fab fa-print",
 			"link" : "https://printer.pi.sayan.page"
+		},
+		{
+			"alt" : "Netdata",
+			"icon" : "fab fa-memo",
+			"link" : "https://adguard.pi.sayan.page"
 		}
 	]
 }
